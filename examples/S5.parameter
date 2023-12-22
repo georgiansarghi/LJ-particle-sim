@@ -1,0 +1,11 @@
+name S5
+delta_t 0.001
+output_interval 20
+t_end 10
+epsilon 120
+sigma 3.4
+cell_r_cut 8.5
+length 510 510 510
+upper_border periodic periodic periodic
+lower_border periodic periodic periodic
+num_procs 2 1 2

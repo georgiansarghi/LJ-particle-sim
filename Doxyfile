@@ -1,0 +1,6 @@
+PROJECT_NAME		= lj-particle-sim
+PROJECT_NUMBER		= 
+OUTPUT_DIRECTORY	= api-doc
+INPUT			= .
+RECURSIVE 		= YES
+USE_MATHJAX 		= YES

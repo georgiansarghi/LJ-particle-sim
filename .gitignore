@@ -1,0 +1,5 @@
+*.o
+*.d
+api-doc
+tags
+*.DS_Store
